@@ -30,7 +30,7 @@ Este proyecto es una aplicación desarrollada en PHP que permite gestionar y cal
 
 ## Requisitos
 - **XAMPP** instalado en tu computadora.
-  - [Descargar desde](https://www.apachefriends.org/es/index.html).
+  - Descargar desde:[https://www.apachefriends.org/es/index.html].
 - **Navegador web compatible** (Chrome, Firefox, etc.).
 
 ## Configuración
